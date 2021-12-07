@@ -108,7 +108,7 @@ module.exports = zeroyt7 = async (zeroyt7, mek, _welkom) => {
 
 		mess = {
 			wait: 'Sabar Lagi Proses Tod...!',
-			success: 'Done Jangan Lupa Subscribe Zero YT7',
+			success: 'Done Jangan Lupa donate',
 			error: {
 				stick: 'Gagal Convert Gambar To Sticker...Coba Lagi !',
 				Iv: 'Linknya Error Tod !'
@@ -273,8 +273,8 @@ var ase = new Date();
                             itemCount : 123,
                             status: 1,
                             surface : 1,
-                            message: `SUBSCRIBE ZERO YT7`, 
-                            orderTitle: `SUBSCRIBE ZERO YT7`,
+                            message: `SUBSCRIBE `, 
+                            orderTitle: `SUBSCRIBE `,
                             thumbnail: zero, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
