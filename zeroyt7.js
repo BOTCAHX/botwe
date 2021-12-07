@@ -427,7 +427,7 @@ Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Se
 │ あ ${prefix}report
 └⬣`
 teks =
-`Ini Base Buatan Zero YT7 Silahkan Di Pake Jika Ingin Recode Atau Reupload Tolong Creator Jangan Hpus Tolong Hargai Karya Orang 🙏`
+`Asede Kontol Samalu Semua ngentot2x`
 but = [
           { buttonId: `${prefix}infobot`, buttonText: { displayText: '☰ INFO' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 }
@@ -439,7 +439,7 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
+*┃┃* Creator Bot : Tio
 *┃┃* Nama Owner : ${ownername}
 *┃┃* Nama Bot : ${botname}
 *┃┃* Prefix : Multi Prefix
@@ -450,8 +450,8 @@ timestamp = speed();
 *┃┗━━━━━━━━*
 *┃◗ Thanks To Allah S.W.T*
 *┃◗ Thank To Ortu*
-*┃◗ Thank To Zero YT7 (Creator)*
-*┃◗ Thanks To All Subscriberku*
+*┃◗ Thank To memek (Creator)*
+*┃◗ Thanks To All user*
 *┗━━━━━━━ •*`
                   but = [
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
